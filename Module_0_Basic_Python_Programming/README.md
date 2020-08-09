@@ -9,4 +9,5 @@ After reading through the materials, work on the provided [lab exercise](Module_
 * [02_numpy.ipynb](02_numpy.ipynb)
 * [03_pandas.ipynb](03_pandas.ipynb)
 * [04_Visualizing_with_matplotlib.ipynb](04_Visualizing_with_matplotlib.ipynb)
+* [05_Reading_Data.ipynb](05_Reading_Data.ipynb)
 
